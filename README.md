@@ -10,5 +10,5 @@
 `npm install`
 
 ### Execute
-`npm start`
-You need to use Postman 
+1. `npm start`
+2. You need to use Postman to invoke the services
