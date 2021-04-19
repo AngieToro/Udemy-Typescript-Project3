@@ -12,3 +12,10 @@
 ### Execute
 1. `npm start`
 2. You need to use Postman to invoke the services
+
+#### Postman
+1.- Post, Get, Patch, Delete
+* URL: http:\\localhost:3000/todos/
+* Body: { "text": "Hola" }
+
+
