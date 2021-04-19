@@ -15,7 +15,7 @@
 
 #### Postman
 1.- Post, Get, Patch, Delete
-* URL: http:\\localhost:3000/todos/
+* URL: http://localhost:3000/todos/
 * Body: { "text": "Hola" }
 
 
